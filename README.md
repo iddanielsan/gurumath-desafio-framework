@@ -1,7 +1,7 @@
 
 # Gurumath - Desafio Framework
 
-Bem, usei o maximo do meu pouco tempo livre do fds para finalizar o desafio, ainda há pendências, como por exemplo os testes unitários e melhorias de código.
+Bem, usei o maximo do meu pouco tempo livre do fds para finalizar o desafio, ainda há pendências, como por exemplo os testes unitários que foram aplicados parcialmente e melhorias de código.
 
 
 
