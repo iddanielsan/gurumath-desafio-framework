@@ -1,0 +1,20 @@
+{
+  "name": "mathguru",
+  "version": "0.0.1",
+  "description": "Desafio da Framework! :)",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.7",
+    "ts-jest": "^27.1.2"
+  },
+  "scripts": {
+    "test": "jest --config jestconfig.json",
+    "build": "tsc"
+  },
+  "author": "Daniel Lima",
+  "license": "ISC"
+}
